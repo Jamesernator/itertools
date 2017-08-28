@@ -1,0 +1,19 @@
+{
+  "name": "itertools",
+  "version": "0.0.1",
+  "description": "This is a set of iteration utilities for JavaScript",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jamesernator/itertools.git"
+  },
+  "author": "James \"The Jamesernator\" Browning",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Jamesernator/itertools/issues"
+  },
+  "homepage": "https://github.com/Jamesernator/itertools#readme"
+}
