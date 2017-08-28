@@ -1,2 +1,2 @@
-export { default as async } from "./lib/async.js";
-export { default as sync } from "./lib/sync.js";
+export * as async from "./lib/async.js";
+export * as sync from "./lib/sync.js";
